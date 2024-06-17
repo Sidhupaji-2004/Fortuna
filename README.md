@@ -47,17 +47,9 @@ Stay updated with live cryptocurrency data fetched from the CoinRanking API thro
 ## 🔗 Live Demo
 
 Experience FORTUNA in action! [Check out the live demo on Vercel](https://fortuna-demo.vercel.app)
-
-## 📷 Screenshots
-
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard)
-
 ### Cryptocurrency Prices
-![Prices](https://via.placeholder.com/800x400.png?text=Cryptocurrency+Prices)
-
 ### News Section
-![News](https://via.placeholder.com/800x400.png?text=Crypto+News)
 
 ## 🤝 Contributing
 
