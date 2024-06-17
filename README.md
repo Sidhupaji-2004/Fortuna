@@ -29,19 +29,15 @@ Never miss a beat with our integrated News section, delivering the latest update
 
 ## 🌟 Highlights
 ### Ant Design for UI Components
-![Ant Design](https://ant.design/static/logo.svg)
 Create a visually appealing and user-friendly interface with Ant Design, enhancing user engagement and satisfaction.
 
 ### React Router for Navigation
-![React Router](https://reactrouter.com/branding/logos/primary-logo-light.svg)
 Navigate through the application with ease, thanks to the robust routing capabilities of React Router.
 
 ### Chart.js for Data Visualization
-![Chart.js](https://www.chartjs.org/media/logo-title.svg)
 Visualize cryptocurrency trends and data with interactive line charts from Chart.js, making complex data easy to understand.
 
 ### RapidAPI for Live Data
-![RapidAPI](https://rapidapi.com/static-assets/images/icons/favicon-32x32.png)
 Stay updated with live cryptocurrency data fetched from the CoinRanking API through RapidAPI.
 
 ## 🔗 Live Demo
